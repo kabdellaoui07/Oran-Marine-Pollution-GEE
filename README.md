@@ -37,4 +37,3 @@ The workflow combines:
 - JavaScript
 - Remote Sensing & GIS
 
-## Repository Structure
